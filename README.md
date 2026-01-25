@@ -6,3 +6,8 @@ This repository contains a focused, final-stage preparation plan for Data Struct
 - **Clarity:** Build concise, correct solutions for core problems.
 - **Speed:** Improve pattern recognition and coding velocity.
 - **Robustness:** Practice edge cases, complexity analysis, and clean code.
+
+
+
+
+Curated By Sankar Gnanasekar
